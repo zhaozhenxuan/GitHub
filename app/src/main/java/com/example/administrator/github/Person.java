@@ -6,4 +6,8 @@ package com.example.administrator.github;
 
 public class Person {
 
+    private String name;
+    private String age;
+    private String baba;
+    private String dsad;
 }
